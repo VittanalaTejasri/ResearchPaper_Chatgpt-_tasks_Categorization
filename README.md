@@ -58,6 +58,8 @@ Exploring explainability techniques (e.g., SHAP, LIME) for interpretability.
 
 Expanding dataset coverage for more generalized task categorization.
 
-Authors:V.Teja sri
+Authors:  V.Teja sri
+          T.Pranathi
+          S.Varshitha
 
 
